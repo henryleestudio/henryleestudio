@@ -6,5 +6,6 @@
 
 Feel free to take a look at my **portfolio website:** https://henrylee.studio/
 
+<img width="828" alt="Screen Shot 2022-04-25 at 9 22 29 PM" src="https://user-images.githubusercontent.com/101936420/165200221-73ab284b-433d-49f8-834d-19974ebcc706.png">
 
 <img width="1397" alt="Screen Shot 2022-04-25 at 9 17 38 PM" src="https://user-images.githubusercontent.com/101936420/165199879-49d6bd2a-69e0-4f05-8b2e-2cf2381d9aae.png">
