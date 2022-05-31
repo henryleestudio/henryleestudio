@@ -6,6 +6,6 @@ alt = "Portfolio" alt = "Portfolio"></a>
 
 
 
-Check out <a href = "https://henrylee.studio/">my portfolio</a> for projects, services, or to contact me directly 
+Check out <a href = "https://henrylee.studio/">my portfolio website</a> to book a session for Creative Direction, Software Engineer inquries, or to contact me directly
 
 
