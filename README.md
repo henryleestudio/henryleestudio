@@ -4,11 +4,11 @@
 <img width="1032" alt="github-banner-2" src="https://user-images.githubusercontent.com/101936420/171940001-352d1d91-92a6-410d-b768-c22ceebf646d.png"
 alt = "Portfolio" alt = "Portfolio"></a>
 
-<p align="left">
+<p align="center">
   <a href="https://henryleestudio.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/172000054-7df36c23-7223-488f-8ecd-9f6bb4a79ff4.png" width="10%"/>
   </a>
-
+&nbsp
   <a href="https://www.linkedin.com/in/henry-lee-studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/172000064-68bffe39-7735-44bf-8b9e-5228913c5eed.png" width="10%"/>
   </a>
