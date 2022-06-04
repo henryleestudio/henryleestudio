@@ -31,8 +31,8 @@ In 2017 Henry Lee founded The Artwear Gallery, a sacred creative space for creat
 As a creative director and software engineer he aims to utilize that same passion to develop greater platforms and inspire creative solutions.
 
 Interested in:
-Contacting me directly? 
-Booking a session for creative direction?
-Inquire about software engineer opportunities?
-
+Contacting me directly? <br>
+Booking a session for creative direction? <br>
+Inquire about software engineer opportunities? <br>
+<br><br>
 Visit <a href = "https://henrylee.studio/">henryleestudio.com</a>
