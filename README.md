@@ -34,5 +34,5 @@ Interested in:
 Contacting me directly? <br>
 Booking a session for creative direction? <br>
 Inquire about software engineer opportunities? <br>
-<br><br>
+<br>
 Visit <a href = "https://henrylee.studio/">henryleestudio.com</a>
