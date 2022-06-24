@@ -41,8 +41,6 @@ Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 
 <img width="1439" alt="Screen Shot 2022-06-24 at 6 58 35 PM" src="https://user-images.githubusercontent.com/101936420/175731577-1e94eecd-2476-4003-9785-e074cb3d117f.png">
 
-<img width="1439" alt="Screen Shot 2022-06-24 at 7 07 43 PM" src="https://user-images.githubusercontent.com/101936420/175732301-f94703f2-883d-4613-8054-1599885d990f.png">
-
 <img width="1439" alt="Screen Shot 2022-06-24 at 7 07 22 PM" src="https://user-images.githubusercontent.com/101936420/175732605-c28c3451-6170-443e-a4a6-b5bb40153916.png">
 
 <img width="1439" alt="Screen Shot 2022-06-24 at 7 06 52 PM" src="https://user-images.githubusercontent.com/101936420/175733162-411b899d-cc68-48b1-96fa-7d99f690cf36.png">
