@@ -38,17 +38,31 @@ Inquiring about software engineer opportunities? <br>
 Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 
 <img width="1438" alt="Screen Shot 2022-06-24 at 6 58 03 PM" src="https://user-images.githubusercontent.com/101936420/175721057-b7b93978-7c2d-4058-91e1-562e2f35f2a4.png">
-<img width="1439" alt="Screen Shot 2022-06-24 at 6 58 35 PM" src="https://user-images.githubusercontent.com/101936420/175721066-acaa66da-063d-480a-b54a-39f5f81feb1b.png">
+
 <img width="1439" alt="Screen Shot 2022-06-24 at 6 58 50 PM" src="https://user-images.githubusercontent.com/101936420/175721080-5f403d69-8831-405b-a0fe-6f45524445b9.png">
-<img width="1439" alt="Screen Shot 2022-06-24 at 6 58 50 PM" src="https://user-images.githubusercontent.com/101936420/175721092-444cfee5-3ec6-4824-9726-7efe757d54b9.png">
+
 <img width="1438" alt="Screen Shot 2022-06-24 at 6 59 05 PM" src="https://user-images.githubusercontent.com/101936420/175721108-1ffa0377-970b-4a02-8bae-57af913650de.png">
+
 <img width="1439" alt="Screen Shot 2022-06-24 at 6 59 22 PM" src="https://user-images.githubusercontent.com/101936420/175721115-34bc1b32-a708-4dbe-bdb2-9e131367ab28.png">
+
 <img width="1437" alt="Screen Shot 2022-06-24 at 6 59 39 PM" src="https://user-images.githubusercontent.com/101936420/175721120-fc63920f-35c5-446c-9e1a-b1e0fe41e926.png">
+
 <img width="1437" alt="Screen Shot 2022-06-24 at 7 00 02 PM" src="https://user-images.githubusercontent.com/101936420/175721132-8dbd76df-c2eb-4e06-abaf-285ab20eea93.png">
+
+<img width="1439" alt="Screen Shot 2022-06-24 at 7 00 27 PM" src="https://user-images.githubusercontent.com/101936420/175721145-92c316dc-94b6-4e99-bf97-cc0d555f5bbf.png">
+
+<img width="1439" alt="Screen Shot 2022-06-24 at 7 01 51 PM" src="https://user-images.githubusercontent.com/101936420/175721161-cf1d17f2-3155-46b3-af84-6757203f55d0.png">
+
+
+
+
+
+<img width="1439" alt="Screen Shot 2022-06-24 at 6 58 35 PM" src="https://user-images.githubusercontent.com/101936420/175721066-acaa66da-063d-480a-b54a-39f5f81feb1b.png">
+
+<img width="1439" alt="Screen Shot 2022-06-24 at 6 58 50 PM" src="https://user-images.githubusercontent.com/101936420/175721092-444cfee5-3ec6-4824-9726-7efe757d54b9.png">
+
+
+
+
 <img width="1439" alt="Screen Shot 2022-06-24 at 7 00 27 PM" src="https://user-images.githubusercontent.com/101936420/175721145-92c316dc-94b6-4e99-bf97-cc0d555f5bbf.png">
 <img width="1439" alt="Screen Shot 2022-06-24 at 7 01 51 PM" src="https://user-images.githubusercontent.com/101936420/175721161-cf1d17f2-3155-46b3-af84-6757203f55d0.png">
-<img width="1435" alt="Screen Shot 2022-06-24 at 7 07 59 PM" src="https://user-images.githubusercontent.com/101936420/175721549-0e410999-6dfc-4637-9721-124f420e8c3f.png">
-<img width="1439" alt="Screen Shot 2022-06-24 at 7 07 43 PM" src="https://user-images.githubusercontent.com/101936420/175721551-d87618bf-bc14-47e2-bc63-4e0aea80960f.png">
-<img width="1439" alt="Screen Shot 2022-06-24 at 7 07 22 PM" src="https://user-images.githubusercontent.com/101936420/175721552-43b284bb-8dc7-4e0b-a425-18b77c1291b9.png">
-<img width="1439" alt="Screen Shot 2022-06-24 at 7 06 52 PM" src="https://user-images.githubusercontent.com/101936420/175721555-8ea9a7bd-bac3-444b-a6a1-16b2887fc7cf.png">
-<img width="1439" alt="Screen Shot 2022-06-24 at 7 06 09 PM" src="https://user-images.githubusercontent.com/101936420/175721558-b2c7108a-ea0c-4779-bcf2-d7f8085503f7.png">
