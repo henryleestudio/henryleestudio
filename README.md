@@ -56,19 +56,15 @@ Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 
   <a href="https://henrylee.studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/175752599-1fed0463-9123-4573-95fe-193ea6a4b7af.png" width="10%"/>
-  </a>&nbsp&nbsp
-
-<a href="https://henrylee.studio/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/101936420/175752569-35e46914-6b83-4e30-9a56-95a21c11eb54.png" width="6%"/>
-  </a>  
+  </a>&nbsp&nbsp  
 
   <a href="https://henrylee.studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/175752607-96bf6364-e6ee-4d28-af4d-acf6f1f93203.png" width="6%"/>
   </a>&nbsp&nbsp
 
-
-
-    <a href="https://henrylee.studio/" target="_blank">
+  <a href="https://henrylee.studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/175752569-35e46914-6b83-4e30-9a56-95a21c11eb54.png" width="6%"/>
-  </a>  
+  </a>
+
+
 </p>
