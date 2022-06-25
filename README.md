@@ -18,6 +18,10 @@ alt = "Portfolio" alt = "Portfolio"></a>
   </a>&nbsp&nbsp
 
   <a href="https://henrylee.studio/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/101936420/175753640-f1870620-6e56-4ca3-a226-e71c6fb5d39a.png" width="10%"/>
+  </a>&nbsp&nbsp
+
+  <a href="https://henrylee.studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/175752590-77571b58-d3bb-4d4f-b334-6e7b724c9f2e.png" width="6%"/>
   </a>&nbsp&nbsp
 
