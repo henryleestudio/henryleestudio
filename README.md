@@ -37,7 +37,7 @@ Inquiring about software engineer opportunities? <br>
 <br>
 Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 
-<align="center">
+<align="left">
 # Technologies
 </p>
 
