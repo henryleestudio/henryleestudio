@@ -38,10 +38,6 @@ Inquiring about software engineer opportunities? <br>
 Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 
 <p align="center">
-    <a href="https://henrylee.studio/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/101936420/175752569-35e46914-6b83-4e30-9a56-95a21c11eb54.png" width="6%"/>
-  </a>&nbsp&nbsp  
-
   <a href="https://henrylee.studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/175752566-bcb24006-569a-4ed6-991d-25793db22dd3.png" width="6%"/>
   </a>&nbsp&nbsp
@@ -64,5 +60,9 @@ Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 
   <a href="https://henrylee.studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/175752607-96bf6364-e6ee-4d28-af4d-acf6f1f93203.png" width="6%"/>
-  </a>
+  </a>&nbsp&nbsp
+
+    <a href="https://henrylee.studio/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/101936420/175752569-35e46914-6b83-4e30-9a56-95a21c11eb54.png" width="6%"/>
+  </a>  
 </p>
