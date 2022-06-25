@@ -39,18 +39,19 @@ Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 
 <p align="center">
   <a href="https://henrylee.studio/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/101936420/175752566-bcb24006-569a-4ed6-991d-25793db22dd3.png" width="10%"/>
+    <img src="https://user-images.githubusercontent.com/101936420/175752566-bcb24006-569a-4ed6-991d-25793db22dd3.png" width="6%"/>
   </a>
 
   <a href="https://henrylee.studio/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/101936420/175752566-bcb24006-569a-4ed6-991d-25793db22dd3.png" width="10%"/>
+    <img src="https://user-images.githubusercontent.com/101936420/175752569-35e46914-6b83-4e30-9a56-95a21c11eb54.png" width="10%"/>
+  </a>
+
+  <a href="https://henrylee.studio/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/101936420/175752553-5e633f17-ad7e-4226-af52-66bcc23b79d6.png" width="10%"/>
   </a>
 
 </p>
 
-![html5-logo](https://user-images.githubusercontent.com/101936420/175752566-bcb24006-569a-4ed6-991d-25793db22dd3.png)
-
-![css3-logo](https://user-images.githubusercontent.com/101936420/175752569-35e46914-6b83-4e30-9a56-95a21c11eb54.png)
 
 ![react-logo](https://user-images.githubusercontent.com/101936420/175752553-5e633f17-ad7e-4226-af52-66bcc23b79d6.png)
 
