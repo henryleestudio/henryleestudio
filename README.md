@@ -37,7 +37,11 @@ Inquiring about software engineer opportunities? <br>
 <br>
 Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
 
-<p align="left">
+<br>
+
+
+
+<p align="center">
   <a href="https://henrylee.studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/175752566-bcb24006-569a-4ed6-991d-25793db22dd3.png" width="6%"/>
   </a>&nbsp&nbsp
