@@ -55,7 +55,7 @@ alt = "Portfolio" alt = "Portfolio"></a>
       <img src="https://user-images.githubusercontent.com/101936420/172000074-c75d3108-337c-4756-8a45-f05912613242.png" width="10%"/>
   </a>
 &nbsp&nbsp
-  <a href="https://docs.google.com/document/d/11bE3jL_fGmSpUj5IAVL7uvYC7NxaE7yJhx3ftZXw0As/edit" target="_blank">
+  <a href="https://henrylee.studio/#intro" target="_blank">
       <img src="https://user-images.githubusercontent.com/101936420/172000081-20e4d8e7-7785-4e19-94a9-4be5cf40506c.png" width="10%"/>
   </a>
   </p>
