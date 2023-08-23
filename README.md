@@ -60,7 +60,7 @@ alt = "Portfolio" alt = "Portfolio"></a>
   </a>
   </p>
 
-Henry Lee is a Software Engineer and User Interface Designer who specializes in E-commerce. His focus is on building strategic, customer-centric, business driven digital experiences by combining the art of design with the art of programming. You can view his work at www.henrylee.studio
+Henry Lee is a Software Engineer and User Interface Designer who specializes in E-commerce. His focus is on building strategic, customer-centric, business driven digital experiences by combining the art of design with the art of programming.
 
 With an extensive background in visual arts, Henry Lee is also a Creative Director, with a Bachelors of Fine Arts in User Interface Design / Web Development, and has extensive training in business / entrepreneurship. He has experience in user interface design, e-commerce, brand strategy, creative entrepreneurship and contemporary business systems.
 
@@ -69,5 +69,6 @@ Contacting me directly? <br>
 Booking a session for creative direction? <br>
 Inquiring about software engineer opportunities? <br>
 <br>
-Visit <a href = "https://henrylee.studio/">henrylee.studio</a>
+
+You can view his work at <a href = "https://henrylee.studio/">henrylee.studio</a>
 
