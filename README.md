@@ -60,9 +60,9 @@ alt = "Portfolio" alt = "Portfolio"></a>
   </a>
   </p>
 
-In 2017 Henry Lee founded The Artwear Gallery, a sacred creative space for creatives of all kinds to collaborate, gain exposure, and earn an income. He led a team of 13+ creative professionals In efforts to host “creative collaborative” events, build the brand, and build out the e-commerce platform.
+Henry Lee is a Software Engineer and User Interface Designer who specializes in E-commerce. His focus is on building strategic, customer-centric, business driven digital experiences by combining the art of design with the art of programming. You can view his work at www.henrylee.studio
 
-As a creative director and software engineer he aims to utilize that same passion to develop greater platforms and inspire creative solutions.
+With an extensive background in visual arts, Henry Lee is also a Creative Director, with a Bachelors of Fine Arts in User Interface Design / Web Development, and has extensive training in business / entrepreneurship. He has experience in user interface design, e-commerce, brand strategy, creative entrepreneurship and contemporary business systems.
 
 Interested in:
 Contacting me directly? <br>
