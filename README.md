@@ -55,7 +55,7 @@ alt = "Portfolio" alt = "Portfolio"></a>
       <img src="https://user-images.githubusercontent.com/101936420/172000074-c75d3108-337c-4756-8a45-f05912613242.png" width="10%"/>
   </a>
 &nbsp&nbsp
-  <a href="[https://henrylee.studio/#intro](https://henrylee.studio/images/resume/henry-lee-resume-shopify-design-development.pdf)" target="_blank">
+  <a href="[[https://henrylee.studio/#intro](https://henrylee.studio/images/resume/henry-lee-resume-shopify-design-development.pdf)](https://henrylee.studio/images/resume/henry-lee-resume-shopify-design-development.pdf)" target="_blank">
       <img src="https://user-images.githubusercontent.com/101936420/172000081-20e4d8e7-7785-4e19-94a9-4be5cf40506c.png" width="10%"/>
   </a>
   </p>
