@@ -1,9 +1,8 @@
 # 
 
 <a href = "https://henrylee.studio/"><a href = "https://henrylee.studio/">
-<img width="1032" alt="github-banner-2" src="https://github.com/user-attachments/assets/103a161b-8b75-4a69-9243-5323570a9d4b"
+<img width="1032" alt="github-banner-2" src="https://github.com/user-attachments/assets/5424d56e-e207-4554-9581-73859ed13b2a"
 alt = "Portfolio" alt = "Portfolio"></a>
-
 
 <p align="center">
   <a href="https://henrylee.studio/" target="_blank">
