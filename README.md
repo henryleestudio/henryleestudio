@@ -1,7 +1,7 @@
 # 
 
 <a href = "https://henrylee.studio/"><a href = "https://henrylee.studio/">
-<img width="1032" alt="github-banner-2" src="https://github.com/henryleestudio/henryleestudio/assets/101936420/19b08a5f-f0a2-4dca-a1d0-e0a5e3454a9d"
+<img width="1032" alt="github-banner-2" src="https://github.com/user-attachments/assets/ab8e2428-bac9-4e36-b9a3-3aceb6f9ad55"
 alt = "Portfolio" alt = "Portfolio"></a>
 
 <p align="center">
